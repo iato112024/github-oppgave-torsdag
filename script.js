@@ -38,6 +38,8 @@ const person = {
     firstName: "Thomas",
     lastName: "Iversen",
     age: 20,
-    hobbies: ["Piano", "Guitar", "Gaming"]
+    hobbies: ["Piano", "Guitar", "Gaming"],
+    city: "Bergen",
+
 }
 console.log(person)
